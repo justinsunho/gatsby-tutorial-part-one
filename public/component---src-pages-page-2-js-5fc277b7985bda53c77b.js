@@ -1,0 +1,2 @@
+webpackJsonp([0xc6c285f8fd10],{199:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(5),a=u(n),d=l(101),f=u(d);t.default=function(){return a.default.createElement("div",{style:{color:"blue"}},a.default.createElement("div",null,a.default.createElement(f.default,{to:"/"},"HOME")))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-page-2-js-5fc277b7985bda53c77b.js.map
